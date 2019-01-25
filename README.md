@@ -6,7 +6,6 @@
 ## Contents
 
   - [C](#c)
-  - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
   - [DIGITAL Command Language](#digital-command-language)
@@ -44,10 +43,6 @@
 - [rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 
-## C# # 
-
-- [TumblThree](https://github.com/johanneszab/TumblThree) - A Tumblr Blog Backup Application
-
 ## C++ 
 
 - [xmr-stak](https://github.com/fireice-uk/xmr-stak) - Unified All-in-one Monero miner
@@ -60,9 +55,7 @@
 - [Flask_Docs_ZhCn](https://github.com/dormouse/Flask_Docs_ZhCn) - Flask documents translated by Dormouse Young
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [smartping](https://github.com/smartping/smartping) - 机器(点)间间互PING检测工具，支持互PING，单向PING，绘制拓扑及报警功能。
-- [hexo-theme-indigo](https://github.com/yscoder/hexo-theme-indigo) - 一个Material Design风格的Hexo主题。 https://imys.net/ 　　 备用:
 - [WitchHunt](https://github.com/unistar-sec/WitchHunt) - 
-- [weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 
 ## DIGITAL Command Language 
 
@@ -98,13 +91,11 @@
 ## Java 
 
 - [APIJSON](https://github.com/TommyLemon/APIJSON) - 🚀A JSON Transmission Protocol and an ORM Library for auto providing APIs and Documents.
-- [ratel](https://github.com/ainilili/ratel) - A fighting landlord program that can be played on the command line
 - [gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
 - [Unblock163MusicClient-Xposed](https://github.com/bin456789/Unblock163MusicClient-Xposed) - Unblock 163 Cloud Music Android client through Xposed.
 - [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
 - [cachecloud](https://github.com/sohutv/cachecloud) - 搜狐视频(sohu tv)Redis私有云平台
 - [shepher](https://github.com/XiaoMi/shepher) - 
-- [proxyee-down](https://github.com/proxyee-down-org/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
 - [AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture) - AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler" \(^o^)/~
 - [flow-platform](https://github.com/FlowCI/flow-platform) - CI backend server and agent
 - [ProxyPool](https://github.com/fengzhizi715/ProxyPool) - 给爬虫使用的代理IP池
@@ -136,7 +127,6 @@
 - [wedding](https://github.com/iammapping/wedding) - 婚礼大屏互动，微信请柬一站式解决方案
 - [Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Scrapyd-Client, Scrapyd-API, Django and Vue.js
 - [Hygieia](https://github.com/Hygieia/Hygieia) - CapitalOne  DevOps Dashboard
-- [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的hexo主题  A simple and elegant theme for hexo.
 - [pinyin](https://github.com/hotoo/pinyin) - :cn: 汉字拼音 ➜ hàn zì pīn yīn
 - [falcon](https://github.com/cxueqin/falcon) - 猎鹰网络安全工具，核心功能DOS测试，支持端口扫描，支持CentOS/Ubuntu/MacOS系统。技术构成：nodejs引擎、express框架、nmap工具、tfn2k dos攻击工具、mocha单元测试框架。欢迎大家使用，也欢迎大家一起开发完善。
 - [eyeones](https://github.com/hseagle/eyeones) - web application for elasticsearch monitoring
@@ -264,11 +254,8 @@
 - [PySvn](https://github.com/dsoprea/PySvn) - Lightweight Subversion library for Python.
 - [Zhihu-Spider](https://github.com/moranzcw/Zhihu-Spider) - 一个获取知乎用户主页信息的多线程Python爬虫程序。
 - [logzero](https://github.com/metachris/logzero) - Robust and effective logging for Python 2 and 3.
-- [adminset](https://github.com/guohongze/adminset) - 自动化运维平台：CMDB、CD、DevOps、资产管理、任务编排、持续交付、系统监控、运维管理、配置管理
 - [django-sspanel](https://github.com/Ehco1996/django-sspanel) - 用diango开发的全新的shadowsocks网络面板
 - [pyecharts](https://github.com/pyecharts/pyecharts) - 🎨 Python Echarts Plotting Library
-- [yacron](https://github.com/gjcarneiro/yacron) - A modern Cron replacement that is Docker-friendly
-- [dingdian](https://github.com/Blackyukun/dingdian) - Python爬虫和Flask实现小说网站
 - [WarChild](https://github.com/Souhardya/WarChild) - War Child denial of service testing suite
 - [wxpy](https://github.com/youfou/wxpy) - 微信机器人 / 可能是最优雅的微信个人号 API ✨✨
 - [plan](https://github.com/fengsp/plan) - Crontab jobs management in Python
@@ -280,7 +267,6 @@
 - [httpie](https://github.com/jakubroztocil/httpie) - As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [regal](https://github.com/boylegu/regal) - A/B Testing or publish smart grouping engine
-- [bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
 - [hues](https://github.com/prashnts/hues) - Colored terminal text made easy for Python and happiness.
 - [powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 - [pyzabbix](https://github.com/lukecyca/pyzabbix) - Python Zabbix API
