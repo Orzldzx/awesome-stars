@@ -187,6 +187,7 @@
 
 ## Python 
 
+- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [zhihu-oauth](https://github.com/7sDream/zhihu-oauth) - 尝试解析出知乎官方未开放的 OAuth2 接口，并提供优雅的使用方式，作为 zhihu-py3 项目的替代者，目前还在实验阶段
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
@@ -250,7 +251,6 @@
 - [halo](https://github.com/manrajgrover/halo) - 💫 Beautiful spinners for terminal, IPython and Jupyter
 - [trip](https://github.com/littlecodersh/trip) - Async HTTP for Humans, coroutine Requests :tent:
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
-- [ansible2_myAPI](https://github.com/Joshuapy/ansible2_myAPI) - 对Ansible2.2+ API进行封装，以达到API使用方式像Ansible1.9 API一样简单。
 - [PySvn](https://github.com/dsoprea/PySvn) - Lightweight Subversion library for Python.
 - [Zhihu-Spider](https://github.com/moranzcw/Zhihu-Spider) - 一个获取知乎用户主页信息的多线程Python爬虫程序。
 - [logzero](https://github.com/metachris/logzero) - Robust and effective logging for Python 2 and 3.
