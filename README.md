@@ -110,6 +110,7 @@
 
 ## JavaScript 
 
+- [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 万物皆可 RSS
 - [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [Photon](https://github.com/alanzhangzm/Photon) - A lightweight multi-threaded downloader based on aria2.
@@ -187,7 +188,6 @@
 
 ## Python 
 
-- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [zhihu-oauth](https://github.com/7sDream/zhihu-oauth) - 尝试解析出知乎官方未开放的 OAuth2 接口，并提供优雅的使用方式，作为 zhihu-py3 项目的替代者，目前还在实验阶段
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
