@@ -222,7 +222,7 @@
 - [dnsyo](https://github.com/YoSmudge/dnsyo) - Check your DNS against over 1000 global DNS servers
 - [binlog2sql](https://github.com/danfengcao/binlog2sql) - Parse MySQL binlog to SQL you want
 - [patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
-- [zmail](https://github.com/ZYunH/zmail) - Zmail allows you to send and get emails as possible as it can be in python3.
+- [zmail](https://github.com/ZYunH/zmail) - Zmail allows you to send and get emails as possible as it can be in python3
 - [better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [haipproxy](https://github.com/SpiderClub/haipproxy) - :sparkling_heart: High available distributed ip proxy pool, powerd by Scrapy and Redis
