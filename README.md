@@ -85,7 +85,7 @@
 
 ## HTML 
 
-- [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans™
+- [requests-html](https://github.com/kenneth-reitz/requests-html) - Pythonic HTML Parsing for Humans™
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
 
 ## Java 
@@ -242,7 +242,7 @@
 - [ydcv](https://github.com/felixonmars/ydcv) - YouDao Console Version - Simple wrapper for Youdao online translate (Chinese &lt;-&gt; English) service API, as an alternative to the StarDict Console Version(sdcv).
 - [WebHubBot](https://github.com/xiyouMc/WebHubBot) - Python + Scrapy + MongoDB . 5 million data per day !!!💥  The world's largest website.
 - [Chinese](https://github.com/dongxiexidian/Chinese) - Tools and resources for Chinese texts preprocessing. Validated in two papers, one CCF C, EI indexing and one CCF B, SCI indexing.
-- [requests](https://github.com/requests/requests) - Python HTTP Requests for Humans™ ✨🍰✨
+- [requests](https://github.com/kennethreitz/requests) - Python HTTP Requests for Humans™ ✨🍰✨
 - [OpsManage](https://github.com/welliamcao/OpsManage) - 自动化运维平台: 代码及应用部署CI/CD、资产管理CMDB、计划任务管理平台、SQL审核|回滚、任务调度、站内WIKI
 - [uplink](https://github.com/prkumar/uplink) - A Declarative HTTP Client for Python
 - [ansible-container](https://github.com/ansible/ansible-container) - Ansible Container is a tool to build Docker images and orchestrate containers using only Ansible playbooks.
@@ -293,7 +293,7 @@
 - [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [kubeasz](https://github.com/gjmzj/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 - [sa-scripts](https://github.com/geekwolf/sa-scripts) - sa-scripts
-- [autoenv](https://github.com/kennethreitz/autoenv) - Directory-based environments.
+- [autoenv](https://github.com/kenneth-reitz/autoenv) - Directory-based environments.
 - [acme.sh](https://github.com/Neilpang/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) - 和我一步步部署 kubernetes 集群
 - [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
