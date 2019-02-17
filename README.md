@@ -29,6 +29,7 @@
 
 ## C 
 
+- [Molten](https://github.com/chuan-yun/Molten) - php probe for zipkin and opentracing
 - [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [cetus](https://github.com/Lede-Inc/cetus) - 专注于稳定、性能和分布式事务的MySQL数据库中间件
 - [earlyoom](https://github.com/rfjakob/earlyoom) - Early OOM Daemon for Linux
@@ -85,7 +86,7 @@
 
 ## HTML 
 
-- [requests-html](https://github.com/kenneth-reitz/requests-html) - Pythonic HTML Parsing for Humans™
+- [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans™
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
 
 ## Java 
@@ -161,13 +162,13 @@
 
 ## Others 
 
+- [Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
 - [microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》
 - [trackerslist](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers
 - [ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R) - Next Generation of ShadowsocksX
-- [WebSiteUseful](https://github.com/loremwalker/WebSiteUseful) - 🍅 翻墙！科学上网，免费ss帐号分享、ssr订阅源，免费VPN下载，获取及使用教程请看：https://github.com/loremwalker/fq-book
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-- [Scanners-Box](https://github.com/We5ter/Scanners-Box) - The toolbox of open source scanners(a.k.a scanbox) - 安全行业从业者自研开源扫描器合辑
+- [Scanners-Box](https://github.com/We5ter/Scanners-Box) - The toolbox of open source scanners(abbr - scanbox) - 安全行业从业者自研开源扫描器合辑
 - [growing-up](https://github.com/mylxsw/growing-up) - 程序猿成长计划
 - [dracula-theme](https://github.com/dracula/dracula-theme) - :scream: A dark theme for all the things!
 - [kubernetes-complete-course](https://github.com/jolestar/kubernetes-complete-course) - Kubernetes 完全教程
@@ -188,6 +189,8 @@
 
 ## Python 
 
+- [multi-v2ray](https://github.com/Jrohy/multi-v2ray) - v2ray 一键部署 & 管理脚本， 支持多端口多协议管理
+- [shadowsocksr](https://github.com/shadowsocksrr/shadowsocksr) - Python port of ShadowsocksR
 - [funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLP太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器
 - [zhihu-oauth](https://github.com/7sDream/zhihu-oauth) - 尝试解析出知乎官方未开放的 OAuth2 接口，并提供优雅的使用方式，作为 zhihu-py3 项目的替代者，目前还在实验阶段
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
@@ -204,7 +207,6 @@
 - [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
 - [elastizabbix](https://github.com/mkhpalm/elastizabbix) - Zabbix plugin for monitoring elastic / elasticsearch
-- [submin](https://github.com/submin-io/submin) - https://supermind.nl/submin/current/
 - [kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
 - [flaskapp](https://github.com/tomoncle/flaskapp) - 使用flask搭建web项目框架. 模块化设计, 支持数据迁移, banner，拦截器, 异常处理, json转换，,swagger, celery，flask配置拓展   等等
 - [magnet-dht](https://github.com/chenjiandongx/magnet-dht) - ✌️ Python3 DHT 网络磁力种子采集器
@@ -261,7 +263,7 @@
 - [wxpy](https://github.com/youfou/wxpy) - 微信机器人 / 可能是最优雅的微信个人号 API ✨✨
 - [plan](https://github.com/fengsp/plan) - Crontab jobs management in Python
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
-- [walle-web](https://github.com/meolu/walle-web) - walle - 瓦力 开源项目代码部署平台
+- [walle-web](https://github.com/meolu/walle-web) - walle - 瓦力 Devops开源项目代码部署平台
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
@@ -290,10 +292,11 @@
 
 ## Shell 
 
+- [doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
 - [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [kubeasz](https://github.com/gjmzj/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 - [sa-scripts](https://github.com/geekwolf/sa-scripts) - sa-scripts
-- [autoenv](https://github.com/kenneth-reitz/autoenv) - Directory-based environments.
+- [autoenv](https://github.com/kennethreitz/autoenv) - Directory-based environments.
 - [acme.sh](https://github.com/Neilpang/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) - 和我一步步部署 kubernetes 集群
 - [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
