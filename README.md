@@ -142,7 +142,6 @@
 - [DjangoX](https://github.com/JoneXiong/DjangoX) - A web GUI suite for Django ORM data or API data management
 - [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
-- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [mapv](https://github.com/huiyan-fe/mapv) - a library of geography visualization-地理信息可视化库
 - [jumpserver](https://github.com/jumpserver/jumpserver) - Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。
 
@@ -162,6 +161,7 @@
 
 ## Others 
 
+- [Micro8](https://github.com/Micropoor/Micro8) - Gitbook
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
 - [microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》
 - [trackerslist](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers
@@ -176,6 +176,7 @@
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [open-falcon](https://github.com/XiaoMi/open-falcon) - A Distributed and High-Performance Monitoring System
 - [Cloudboot](https://github.com/idcos/Cloudboot) - Document
 - [Mind-Map](https://github.com/phith0n/Mind-Map) - 各种安全相关思维导图整理收集
@@ -292,6 +293,7 @@
 
 ## Shell 
 
+- [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt;
 - [doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
 - [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [kubeasz](https://github.com/gjmzj/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
@@ -313,7 +315,7 @@
 ## TypeScript 
 
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
-- [wayne](https://github.com/Qihoo360/wayne) - Web UI for Kubernetes multi-clusters
+- [wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 
 ## Vim script 
