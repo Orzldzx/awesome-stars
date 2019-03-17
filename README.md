@@ -17,6 +17,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
   - [Makefile](#makefile)
+  - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
@@ -31,7 +32,7 @@
 
 - [Molten](https://github.com/chuan-yun/Molten) - php probe for zipkin and opentracing
 - [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
-- [cetus](https://github.com/Lede-Inc/cetus) - 专注于稳定、性能和分布式事务的MySQL数据库中间件
+- [cetus](https://github.com/cetus-tools/cetus) - 专注于稳定、性能和分布式事务的MySQL数据库中间件
 - [earlyoom](https://github.com/rfjakob/earlyoom) - Early OOM Daemon for Linux
 - [MyFlash](https://github.com/Meituan-Dianping/MyFlash) - flashback mysql data to any point
 - [seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
@@ -160,6 +161,10 @@
 
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
 
+## Objective-C 
+
+- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
+
 ## Others 
 
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -192,8 +197,9 @@
 
 ## Python 
 
+- [owllook](https://github.com/howie6879/owllook) - owllook-在线网络小说阅读网站&小说搜索引擎&小说推荐系统[搜索、追书、收藏、追更、小说API]
 - [faceswap](https://github.com/deepfakes/faceswap) - Non official project based on original /r/Deepfakes thread. Many thanks to him!
-- [multi-v2ray](https://github.com/Jrohy/multi-v2ray) - v2ray 一键部署 & 管理脚本， 支持多端口多协议管理
+- [multi-v2ray](https://github.com/Jrohy/multi-v2ray) - v2ray easy delpoy & manage tool， support multiple user & protocol manage
 - [shadowsocksr](https://github.com/shadowsocksrr/shadowsocksr) - Python port of ShadowsocksR
 - [funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLP太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包。
 - [zhihu-oauth](https://github.com/7sDream/zhihu-oauth) - 尝试解析出知乎官方未开放的 OAuth2 接口，并提供优雅的使用方式，作为 zhihu-py3 项目的替代者，目前还在实验阶段
