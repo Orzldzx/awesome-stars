@@ -87,6 +87,7 @@
 
 ## HTML 
 
+- [github](https://github.com/phodal/github) - GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.
 - [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans™
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
 
@@ -257,7 +258,7 @@
 - [requests](https://github.com/kennethreitz/requests) - Python HTTP Requests for Humans™ ✨🍰✨
 - [OpsManage](https://github.com/welliamcao/OpsManage) - 自动化运维平台: 代码及应用部署CI/CD、资产管理CMDB、计划任务管理平台、SQL审核|回滚、任务调度、站内WIKI
 - [uplink](https://github.com/prkumar/uplink) - A Declarative HTTP Client for Python
-- [ansible-container](https://github.com/ansible/ansible-container) - Ansible Container is a tool to build Docker images and orchestrate containers using only Ansible playbooks.
+- [ansible-container](https://github.com/ansible/ansible-container) - DEPRECATED -- Ansible Container was a tool to build Docker images and orchestrate containers using only Ansible playbooks.
 - [torrent-cli](https://github.com/chenjiandongx/torrent-cli) - 🔨 磁力获取器命令行工具
 - [flansible](https://github.com/trondhindenes/flansible) - super-duper-simple rest api for ansible tasks
 - [buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
