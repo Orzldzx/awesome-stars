@@ -21,6 +21,7 @@
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
+  - [Rich Text Format](#rich-text-format)
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Shell](#shell)
@@ -54,7 +55,7 @@
 
 ## CSS 
 
-- [StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜,为Github优秀项目写一份wiki，让Github优秀项目造福人类~ Github apocalypse list, write a letter of recommendation for Github's outstanding projects, and let Github excellent projects benefit humanity~
+- [StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜,为Github创意项目写一本推荐书，让Github优秀项目造福人类~ Github apocalypse list, write a letter of recommendation for Github's outstanding projects, and let Github excellent projects benefit humanity~
 - [Flask_Docs_ZhCn](https://github.com/dormouse/Flask_Docs_ZhCn) - Flask documents translated by Dormouse Young
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [smartping](https://github.com/smartping/smartping) - 机器(点)间间互PING检测工具，支持互PING，单向PING，绘制拓扑及报警功能。
@@ -89,7 +90,6 @@
 ## HTML 
 
 - [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
-- [github](https://github.com/phodal/github) - GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.
 - [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans™
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
 
@@ -205,7 +205,7 @@
 - [faceswap](https://github.com/deepfakes/faceswap) - Non official project based on original /r/Deepfakes thread. Many thanks to him!
 - [multi-v2ray](https://github.com/Jrohy/multi-v2ray) - v2ray easy delpoy & manage tool， support multiple user & protocol manage
 - [shadowsocksr](https://github.com/shadowsocksrr/shadowsocksr) - Python port of ShadowsocksR
-- [funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLP太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包。
+- [funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库。
 - [zhihu-oauth](https://github.com/7sDream/zhihu-oauth) - 尝试解析出知乎官方未开放的 OAuth2 接口，并提供优雅的使用方式，作为 zhihu-py3 项目的替代者，目前还在实验阶段
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
@@ -294,6 +294,10 @@
 - [cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
 - [pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server
+
+## Rich Text Format 
+
+- [github](https://github.com/phodal/github) - GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.
 
 ## Roff 
 
