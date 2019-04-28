@@ -60,6 +60,7 @@
 
 ## CSS 
 
+- [V2ray.Fun](https://github.com/FunctionClub/V2ray.Fun) - 正在开发的全新 V2ray.Fun
 - [StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜,为Github创意项目写一本推荐书，让Github优秀项目造福人类~ Github apocalypse list, write a letter of recommendation for Github's outstanding projects, and let Github excellent projects benefit humanity~
 - [Flask_Docs_ZhCn](https://github.com/dormouse/Flask_Docs_ZhCn) - Flask documents translated by Dormouse Young
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
@@ -72,6 +73,7 @@
 
 ## Go 
 
+- [redis-tui](https://github.com/mylxsw/redis-tui) - A Redis Text-based UI client in CLI
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) - 百度网盘客户端 - Go语言编写
 - [bk-cmdb](https://github.com/Tencent/bk-cmdb) - 蓝鲸智云配置平台(BlueKing CMDB)
@@ -206,6 +208,8 @@
 
 ## Python 
 
+- [PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
+- [codo-tools](https://github.com/opendevops-cn/codo-tools) - CODO运维工具支持：告警管理、项目管理、事件管理、加密解密、随机密码、提醒管理等
 - [owllook](https://github.com/howie6879/owllook) - owllook-在线网络小说阅读网站&小说搜索引擎&小说推荐系统[搜索、追书、收藏、追更、小说API]
 - [faceswap](https://github.com/deepfakes/faceswap) - Non official project based on original /r/Deepfakes thread. Many thanks to him!
 - [multi-v2ray](https://github.com/Jrohy/multi-v2ray) - v2ray easy delpoy & manage tool， support multiple user & protocol manage
@@ -314,6 +318,7 @@
 
 ## Shell 
 
+- [jsproxy](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
 - [doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
 - [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
