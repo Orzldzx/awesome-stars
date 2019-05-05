@@ -33,7 +33,6 @@
 ## C 
 
 - [Molten](https://github.com/chuan-yun/Molten) - php probe for zipkin and opentracing
-- [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [cetus](https://github.com/cetus-tools/cetus) - 专注于稳定、性能和分布式事务的MySQL数据库中间件
 - [earlyoom](https://github.com/rfjakob/earlyoom) - Early OOM Daemon for Linux
 - [MyFlash](https://github.com/Meituan-Dianping/MyFlash) - flashback mysql data to any point
@@ -98,10 +97,12 @@
 
 - [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans™
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
 
 ## Java 
 
+- [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [APIJSON](https://github.com/TommyLemon/APIJSON) - 🚀A JSON Transmission Protocol and an ORM Library for auto providing APIs and Documents.
 - [gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
 - [Unblock163MusicClient-Xposed](https://github.com/bin456789/Unblock163MusicClient-Xposed) - Unblock 163 Cloud Music Android client through Xposed.
@@ -164,6 +165,7 @@
 
 ## Lua 
 
+- [jsproxy](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [VeryNginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 
@@ -180,7 +182,7 @@
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt;
 - [Micro8](https://github.com/Micropoor/Micro8) - Gitbook
-- [Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
+- [Dozer](https://github.com/Mortennn/Dozer) - Hide status bar icons on macOS
 - [microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》
 - [trackerslist](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers
 - [ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R) - Next Generation of ShadowsocksX
@@ -236,7 +238,6 @@
 - [filebeat.py](https://github.com/iyaozhen/filebeat.py) - Python 版 Filebeat
 - [zl](https://github.com/dl1548/zl) - zl
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [weiboPicDownloader](https://github.com/nondanee/weiboPicDownloader) - Download weibo images without logging-in
 - [retry](https://github.com/invl/retry) - easy to use retry decorator in python
 - [tqdm](https://github.com/tqdm/tqdm) - A fast, extensible progress bar for Python and CLI
@@ -318,7 +319,6 @@
 
 ## Shell 
 
-- [jsproxy](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
 - [doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
 - [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
@@ -335,7 +335,7 @@
 - [VulApps](https://github.com/Medicean/VulApps) - 快速搭建各种漏洞环境(Various vulnerability environment)
 - [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [mhn](https://github.com/threatstream/mhn) - Modern Honey Network
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 
 ## TypeScript 
@@ -351,6 +351,7 @@
 
 ## Vue 
 
+- [spug](https://github.com/openspug/spug) - 开源运维平台：帮助中小型企业完成主机、任务、发布部署、配置文件、监控、报警等管理(open source O & M management system,manage the hosts, tasks, deployment, configuration files, monitoring and alarming) https://spug.qbangmang.com/login
 - [the-fucking-github](https://github.com/lvxianchao/the-fucking-github) - A Chrome extension for Github. View starred repositories, organizing stars, searching stars and searching repositories online for Github。
 - [crawlab](https://github.com/tikazyq/crawlab) - Celery-based web crawler admin platform for managing distributed web spiders regardless of languages and frameworks.
 - [Yearning](https://github.com/cookieY/Yearning) - Mysql web端sql审核平台
