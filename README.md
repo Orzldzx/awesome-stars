@@ -26,6 +26,7 @@
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Shell](#shell)
+  - [Standard ML](#standard-ml)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
   - [Vue](#vue)
@@ -97,7 +98,6 @@
 
 - [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans™
-- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
 
 ## Java 
@@ -131,7 +131,6 @@
 - [webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [ervy](https://github.com/chunqiuyiyu/ervy) - Bring charts to terminal.
 - [pcap-analyzer](https://github.com/le4f/pcap-analyzer) - online pcap forensic
-- [electron-ssr](https://github.com/erguotou520/electron-ssr) - Shadowsocksr client using electron
 - [monitor](https://github.com/AsuraTeam/monitor) - The monitoring system, develop their own powerful and flexible configuration
 - [404](https://github.com/pmthink/404) - 屏蔽一些不良网站，打开后直接显示404。
 - [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
@@ -161,6 +160,7 @@
 
 - [python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) - Learn python3 in one picture.
 - [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [LearnPython](https://github.com/xianhu/LearnPython) - 以撸代码的形式学习Python
 
 ## Lua 
@@ -179,7 +179,7 @@
 
 ## Others 
 
-- [CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into cpython internal, trying to illustrate every detail of cpython implementation | cpython源码阅读笔记, 多图展示底层实现细节
+- [CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation | CPython 源码阅读笔记, 多图展示底层实现细节
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt;
 - [Micro8](https://github.com/Micropoor/Micro8) - Gitbook
@@ -187,6 +187,7 @@
 - [microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》
 - [trackerslist](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers
 - [ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R) - Next Generation of ShadowsocksX
+- [bye](https://github.com/erguotou520/bye) - bye to yesterday and do yourself
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [Scanners-Box](https://github.com/We5ter/Scanners-Box) - A powerful hacker toolkit which collects more than 10 categories of open source scanners from Github  - 安全行业从业者自研开源扫描器合辑
@@ -242,7 +243,7 @@
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [weiboPicDownloader](https://github.com/nondanee/weiboPicDownloader) - Download weibo images without logging-in
 - [retry](https://github.com/invl/retry) - easy to use retry decorator in python
-- [tqdm](https://github.com/tqdm/tqdm) - A fast, extensible progress bar for Python and CLI
+- [tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
@@ -316,7 +317,6 @@
 
 ## Ruby 
 
-- [Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
 - [redis-dump](https://github.com/delano/redis-dump) - Backup and restore your Redis data to and from JSON.
 
 ## Shell 
@@ -339,6 +339,10 @@
 - [mhn](https://github.com/threatstream/mhn) - Modern Honey Network
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
+
+## Standard ML 
+
+- [Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
 
 ## TypeScript 
 
