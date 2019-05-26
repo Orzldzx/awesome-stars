@@ -61,7 +61,7 @@
 ## CSS 
 
 - [V2ray.Fun](https://github.com/FunctionClub/V2ray.Fun) - 正在开发的全新 V2ray.Fun
-- [StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜,为Github创意项目写一本推荐书，让Github优秀项目造福人类~ Github apocalypse list, write a letter of recommendation for Github's outstanding projects, and let Github excellent projects benefit humanity~
+- [StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~
 - [Flask_Docs_ZhCn](https://github.com/dormouse/Flask_Docs_ZhCn) - Flask documents translated by Dormouse Young
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [smartping](https://github.com/smartping/smartping) - 机器(点)间间互PING检测工具，支持互PING，单向PING，绘制拓扑及报警功能。
@@ -103,7 +103,7 @@
 ## Java 
 
 - [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
-- [APIJSON](https://github.com/APIJSON/APIJSON) - 🚀A JSON Transmission Protocol and an ORM Library for auto providing APIs and Documents.
+- [APIJSON](https://github.com/APIJSON/APIJSON) - 🏆Gitee Most Valuable Project🚀A JSON Transmission Protocol and an ORM Library for auto providing APIs and Documents.
 - [gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
 - [Unblock163MusicClient-Xposed](https://github.com/bin456789/Unblock163MusicClient-Xposed) - Unblock 163 Cloud Music Android client through Xposed.
 - [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
@@ -139,6 +139,7 @@
 - [mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
 - [wedding](https://github.com/iammapping/wedding) - 婚礼大屏互动，微信请柬一站式解决方案
 - [Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Scrapyd-Client, Scrapyd-API, Django and Vue.js
+- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.
 - [Hygieia](https://github.com/Hygieia/Hygieia) - CapitalOne  DevOps Dashboard
 - [pinyin](https://github.com/hotoo/pinyin) - :cn: 汉字拼音 ➜ hàn zì pīn yīn
 - [falcon](https://github.com/cxueqin/falcon) - 猎鹰网络安全工具，核心功能DOS测试，支持端口扫描，支持CentOS/Ubuntu/MacOS系统。技术构成：nodejs引擎、express框架、nmap工具、tfn2k dos攻击工具、mocha单元测试框架。欢迎大家使用，也欢迎大家一起开发完善。
@@ -185,7 +186,7 @@
 - [Micro8](https://github.com/Micropoor/Micro8) - Gitbook
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide status bar icons on macOS
 - [microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》
-- [trackerslist](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers
+- [trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R) - Next Generation of ShadowsocksX
 - [bye](https://github.com/erguotou520/bye) - bye to yesterday and do yourself
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱
@@ -213,6 +214,8 @@
 
 ## Python 
 
+- [stackprinter](https://github.com/cknd/stackprinter) - Debugging-friendly tracebacks for Python
+- [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts) - Web Pentesting Fuzz 字典,一个就够了。
 - [PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [codo-tools](https://github.com/opendevops-cn/codo-tools) - CODO运维工具支持：告警管理、项目管理、事件管理、加密解密、随机密码、提醒管理等
 - [owllook](https://github.com/howie6879/owllook) - owllook-在线网络小说阅读网站&小说搜索引擎&小说推荐系统[搜索、追书、收藏、追更、小说API]
@@ -259,7 +262,6 @@
 - [AnsibleApi](https://github.com/Orzldzx/AnsibleApi) - Ansible v2.4 Api
 - [pyrasite](https://github.com/lmacken/pyrasite) - Inject code into running Python processes
 - [PySocket](https://github.com/falseen/PySocket) - PySocket ，一个通过猴子补丁（monkey patch）动态修改 socket 的项目。在不修改源码的情况下给 socket 增加一些诸如限制客户端数量、前置代理之类的功能。让我们将 Monkey Patch 进行到底吧！
-- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.
 - [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
 - [flask_table](https://github.com/plumdog/flask_table) - Because writing HTML is fiddly and all of your tables are basically the same
 - [icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
