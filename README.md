@@ -194,7 +194,7 @@
 - [bye](https://github.com/erguotou520/bye) - bye to yesterday and do yourself
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-- [Scanners-Box](https://github.com/We5ter/Scanners-Box) - A powerful hacker toolkit which collects more than 10 categories of open source scanners from Github  - 安全行业从业者自研开源扫描器合辑
+- [Scanners-Box](https://github.com/We5ter/Scanners-Box) - A powerful hacker toolkit which has collected more than 10 categories of open source scanners from Github  - 安全行业从业者自研开源扫描器合辑
 - [growing-up](https://github.com/mylxsw/growing-up) - 程序猿成长计划
 - [dracula-theme](https://github.com/dracula/dracula-theme) - :scream: A dark theme for all the things!
 - [kubernetes-complete-course](https://github.com/jolestar/kubernetes-complete-course) - Kubernetes 完全教程
@@ -262,7 +262,7 @@
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [haipproxy](https://github.com/SpiderClub/haipproxy) - :sparkling_heart: High available distributed ip proxy pool, powerd by Scrapy and Redis
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 一个分享 GitHub 上有趣、入门级的开源项目。让你找到编程的乐趣，欢迎推荐、自荐项目「每月28号更新」
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目「每月28号更新」
 - [AnsibleApi](https://github.com/Orzldzx/AnsibleApi) - Ansible v2.4 Api
 - [pyrasite](https://github.com/lmacken/pyrasite) - Inject code into running Python processes
 - [PySocket](https://github.com/falseen/PySocket) - PySocket ，一个通过猴子补丁（monkey patch）动态修改 socket 的项目。在不修改源码的情况下给 socket 增加一些诸如限制客户端数量、前置代理之类的功能。让我们将 Monkey Patch 进行到底吧！
