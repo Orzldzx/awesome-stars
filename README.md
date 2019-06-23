@@ -99,8 +99,7 @@
 
 - [index](https://github.com/openspug/index) - 企业内部导航页
 - [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
-- [crawlab](https://github.com/tikazyq/crawlab) - Celery-based web crawler admin platform for managing distributed web spiders regardless of languages and frameworks.
-- [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
+- [portainer](https://github.com/portainer/portainer) - Making Docker management easy.
 
 ## Haskell 
 
@@ -368,6 +367,7 @@
 
 - [spug](https://github.com/openspug/spug) - 开源运维平台：帮助中小型企业完成主机、任务、发布部署、配置文件、监控、报警等管理(open source O & M management system,manage the hosts, tasks, deployment, configuration files, monitoring and alarming) https://spug.qbangmang.com/login
 - [the-fucking-github](https://github.com/lvxianchao/the-fucking-github) - A Chrome extension for Github. View starred repositories, organizing stars, searching stars and searching repositories online for Github。
+- [crawlab](https://github.com/tikazyq/crawlab) - Celery-based web crawler admin platform for managing distributed web spiders regardless of languages and frameworks.
 - [Yearning](https://github.com/cookieY/Yearning) - Mysql web端sql审核平台
 - [vue-music-webapp](https://github.com/caijinyc/vue-music-webapp) - A Music WebApp based on the Vue.
 - [wechat-admin](https://github.com/dongweiming/wechat-admin) - Wechat Management System
