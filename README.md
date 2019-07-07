@@ -35,7 +35,7 @@
 ## C 
 
 - [Molten](https://github.com/chuan-yun/Molten) - php probe for zipkin and opentracing
-- [cetus](https://github.com/cetus-tools/cetus) - 专注于稳定、性能和分布式事务的MySQL数据库中间件
+- [cetus](https://github.com/cetus-tools/cetus) - 专注于稳定、性能和分布式事务的MySQL数据库中间件（其中性能测试在开源数据库中间件排名第一）
 - [earlyoom](https://github.com/rfjakob/earlyoom) - Early OOM Daemon for Linux
 - [MyFlash](https://github.com/Meituan-Dianping/MyFlash) - flashback mysql data to any point
 - [seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
@@ -54,6 +54,7 @@
 
 ## C++ 
 
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [xmr-stak](https://github.com/fireice-uk/xmr-stak) - Unified All-in-one Monero miner
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
@@ -64,7 +65,7 @@
 - [V2ray.Fun](https://github.com/FunctionClub/V2ray.Fun) - 正在开发的全新 V2ray.Fun
 - [Flask_Docs_ZhCn](https://github.com/dormouse/Flask_Docs_ZhCn) - Flask documents translated by Dormouse Young
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-- [smartping](https://github.com/smartping/smartping) - 机器(点)间间互PING检测工具，支持互PING，单向PING，绘制拓扑及报警功能。
+- [smartping](https://github.com/smartping/smartping) - 综合性网络质量(PING)检测工具，支持正/反向PING绘图、互PING拓扑绘图与报警、全国PING延迟地图与在线检测工具等功能
 - [WitchHunt](https://github.com/unistar-sec/WitchHunt) - 
 
 ## DIGITAL Command Language 
@@ -73,6 +74,8 @@
 
 ## Go 
 
+- [gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
+- [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
 - [mm-wiki](https://github.com/phachon/mm-wiki) - MM-Wiki 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 - [redis-tui](https://github.com/mylxsw/redis-tui) - A Redis Text-based UI client in CLI
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -107,6 +110,7 @@
 
 ## Java 
 
+- [server](https://github.com/wildfirechat/server) - 全开源即时通讯(IM)系统
 - [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [APIJSON](https://github.com/APIJSON/APIJSON) - 🏆Gitee Most Valuable Project 🚀A JSON Transmission Protocol and an ORM Library for auto providing APIs and Documents.
 - [gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
@@ -147,10 +151,12 @@
 - [Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Scrapyd-Client, Scrapyd-API, Django and Vue.js
 - [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.
 - [Hygieia](https://github.com/Hygieia/Hygieia) - CapitalOne  DevOps Dashboard
+- [awx](https://github.com/ansible/awx) - AWX Project
 - [pinyin](https://github.com/hotoo/pinyin) - :cn: 汉字拼音 ➜ hàn zì pīn yīn
 - [falcon](https://github.com/cxueqin/falcon) - 猎鹰网络安全工具，核心功能DOS测试，支持端口扫描，支持CentOS/Ubuntu/MacOS系统。技术构成：nodejs引擎、express框架、nmap工具、tfn2k dos攻击工具、mocha单元测试框架。欢迎大家使用，也欢迎大家一起开发完善。
 - [eyeones](https://github.com/hseagle/eyeones) - web application for elasticsearch monitoring
 - [livepython](https://github.com/agermanidis/livepython) - Visually trace Python code in real-time.
+- [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [elasticsearch-head](https://github.com/mobz/elasticsearch-head) - A web front end for an elastic search cluster
 - [editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 - [WeApp-Password](https://github.com/LCTT/WeApp-Password) - 运维密码微信小程序
@@ -184,6 +190,7 @@
 
 ## Others 
 
+- [one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt;
 - [Micro8](https://github.com/Micropoor/Micro8) - Gitbook
@@ -191,10 +198,9 @@
 - [microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》
 - [trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R) - Next Generation of ShadowsocksX
-- [bye](https://github.com/erguotou520/bye) - bye to yesterday and do yourself
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-- [Scanners-Box](https://github.com/We5ter/Scanners-Box) - A powerful hacker toolkit which has collected more than 10 categories of open source scanners from Github  - 安全行业从业者自研开源扫描器合辑
+- [Scanners-Box](https://github.com/We5ter/Scanners-Box) - A powerful hacker toolkit collected more than 10 categories of open source scanners from Github  - 安全行业从业者自研开源扫描器合辑
 - [growing-up](https://github.com/mylxsw/growing-up) - 程序猿成长计划
 - [dracula-theme](https://github.com/dracula/dracula-theme) - :scream: A dark theme for all the things!
 - [kubernetes-complete-course](https://github.com/jolestar/kubernetes-complete-course) - Kubernetes 完全教程
@@ -258,7 +264,7 @@
 - [dnsyo](https://github.com/YoSmudge/dnsyo) - Check your DNS against over 1000 global DNS servers
 - [binlog2sql](https://github.com/danfengcao/binlog2sql) - Parse MySQL binlog to SQL you want
 - [patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
-- [zmail](https://github.com/ZYunH/zmail) - Zmail allows you to send and get emails as possible as it can be in python3
+- [zmail](https://github.com/ZYunH/zmail) - Zmail makes it easier to send and retrieve emails in python3
 - [better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [haipproxy](https://github.com/SpiderClub/haipproxy) - :sparkling_heart: High available distributed ip proxy pool, powerd by Scrapy and Redis
@@ -270,7 +276,6 @@
 - [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
 - [flask_table](https://github.com/plumdog/flask_table) - Because writing HTML is fiddly and all of your tables are basically the same
 - [icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
-- [awx](https://github.com/ansible/awx) - AWX Project
 - [wechatpy](https://github.com/jxtech/wechatpy) - WeChat SDK for Python
 - [toolkit](https://github.com/ShichaoMa/toolkit) - some useful tools functions
 - [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
@@ -300,6 +305,7 @@
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
+- [mhn](https://github.com/threatstream/mhn) - Modern Honey Network
 - [httpie](https://github.com/jakubroztocil/httpie) - As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [regal](https://github.com/boylegu/regal) - A/B Testing or publish smart grouping engine
@@ -344,7 +350,6 @@
 - [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [VulApps](https://github.com/Medicean/VulApps) - 快速搭建各种漏洞环境(Various vulnerability environment)
 - [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
-- [mhn](https://github.com/threatstream/mhn) - Modern Honey Network
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 
@@ -356,7 +361,6 @@
 
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
-- [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 
 ## Vim script 
