@@ -64,7 +64,7 @@
 
 ## CSS 
 
-- [hexo-theme-nexmoe](https://github.com/nexmoe/hexo-theme-nexmoe) - 一个比较特别的 Hexo 主题
+- [hexo-theme-nexmoe](https://github.com/nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
 - [V2ray.Fun](https://github.com/FunctionClub/V2ray.Fun) - 正在开发的全新 V2ray.Fun
 - [Flask_Docs_ZhCn](https://github.com/dormouse/Flask_Docs_ZhCn) - Flask documents translated by Dormouse Young
 - [smartping](https://github.com/smartping/smartping) - 综合性网络质量(PING)检测工具，支持正/反向PING绘图、互PING拓扑绘图与报警、全国PING延迟地图与在线检测工具等功能
@@ -160,7 +160,6 @@
 - [Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Scrapyd-Client, Scrapyd-API, Django and Vue.js
 - [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.
 - [Hygieia](https://github.com/Hygieia/Hygieia) - CapitalOne  DevOps Dashboard
-- [awx](https://github.com/ansible/awx) - AWX Project
 - [pinyin](https://github.com/hotoo/pinyin) - :cn: 汉字拼音 ➜ hàn zì pīn yīn
 - [falcon](https://github.com/cxueqin/falcon) - 猎鹰网络安全工具，核心功能DOS测试，支持端口扫描，支持CentOS/Ubuntu/MacOS系统。技术构成：nodejs引擎、express框架、nmap工具、tfn2k dos攻击工具、mocha单元测试框架。欢迎大家使用，也欢迎大家一起开发完善。
 - [eyeones](https://github.com/hseagle/eyeones) - web application for elasticsearch monitoring
@@ -187,6 +186,7 @@
 
 ## Lua 
 
+- [lsyncd](https://github.com/axkibe/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [VeryNginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 
@@ -294,6 +294,7 @@
 - [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
 - [flask_table](https://github.com/plumdog/flask_table) - Because writing HTML is fiddly and all of your tables are basically the same
 - [icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
+- [awx](https://github.com/ansible/awx) - AWX Project
 - [wechatpy](https://github.com/jxtech/wechatpy) - WeChat SDK for Python
 - [toolkit](https://github.com/ShichaoMa/toolkit) - some useful tools functions
 - [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
