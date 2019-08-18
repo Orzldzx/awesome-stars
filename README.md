@@ -81,7 +81,6 @@
 - [mm-wiki](https://github.com/phachon/mm-wiki) - MM-Wiki 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 - [redis-tui](https://github.com/mylxsw/redis-tui) - A Redis Text-based UI client in CLI
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [Yearning](https://github.com/cookieY/Yearning) - Mysql web端sql审核平台
 - [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) - 百度网盘客户端 - Go语言编写
 - [bk-cmdb](https://github.com/Tencent/bk-cmdb) - 蓝鲸智云配置平台(BlueKing CMDB)
 - [aproxy](https://github.com/shunfei/aproxy) - aproxy is a reverse proxy that includes authentication
@@ -117,7 +116,7 @@
 - [vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
 - [server](https://github.com/wildfirechat/server) - 开源即时通讯(IM)系统
 - [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
-- [APIJSON](https://github.com/APIJSON/APIJSON) - 🏆Gitee Most Valuable Project 🚀A JSON Transmission Protocol and an ORM Library for auto providing APIs and Documents.
+- [APIJSON](https://github.com/APIJSON/APIJSON) - 🏆Gitee Most Valuable Project🚀A JSON Transmission Protocol and an ORM Library for providing APIs and Docs automatically.
 - [gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
 - [Unblock163MusicClient-Xposed](https://github.com/bin456789/Unblock163MusicClient-Xposed) - Unblock 163 Cloud Music Android client through Xposed.
 - [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
@@ -158,7 +157,6 @@
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [wedding](https://github.com/iammapping/wedding) - 婚礼大屏互动，微信请柬一站式解决方案
 - [Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Scrapyd-Client, Scrapyd-API, Django and Vue.js
-- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.
 - [Hygieia](https://github.com/Hygieia/Hygieia) - CapitalOne  DevOps Dashboard
 - [pinyin](https://github.com/hotoo/pinyin) - :cn: 汉字拼音 ➜ hàn zì pīn yīn
 - [falcon](https://github.com/cxueqin/falcon) - 猎鹰网络安全工具，核心功能DOS测试，支持端口扫描，支持CentOS/Ubuntu/MacOS系统。技术构成：nodejs引擎、express框架、nmap工具、tfn2k dos攻击工具、mocha单元测试框架。欢迎大家使用，也欢迎大家一起开发完善。
@@ -209,6 +207,7 @@
 - [microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》
 - [trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R) - Next Generation of ShadowsocksX
+- [Yearning](https://github.com/cookieY/Yearning) - Mysql web端sql审核平台
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [Scanners-Box](https://github.com/We5ter/Scanners-Box) - A powerful hacker toolkit collected more than 10 categories of open source scanners from Github  - 安全行业从业者自研开源扫描器合辑
@@ -291,6 +290,7 @@
 - [AnsibleApi](https://github.com/Orzldzx/AnsibleApi) - Ansible v2.4 Api
 - [pyrasite](https://github.com/lmacken/pyrasite) - Inject code into running Python processes
 - [PySocket](https://github.com/falseen/PySocket) - PySocket ，一个通过猴子补丁（monkey patch）动态修改 socket 的项目。在不修改源码的情况下给 socket 增加一些诸如限制客户端数量、前置代理之类的功能。让我们将 Monkey Patch 进行到底吧！
+- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.
 - [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
 - [flask_table](https://github.com/plumdog/flask_table) - Because writing HTML is fiddly and all of your tables are basically the same
 - [icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
