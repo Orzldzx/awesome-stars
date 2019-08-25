@@ -76,6 +76,9 @@
 
 ## Go 
 
+- [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
+- [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
+- [buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images
 - [gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 - [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
 - [mm-wiki](https://github.com/phachon/mm-wiki) - MM-Wiki 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
@@ -113,6 +116,7 @@
 
 ## Java 
 
+- [JustAuth](https://github.com/justauth/JustAuth) - :100: 史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为和企业微信等第三方平台的授权登录。 Login, so easy!
 - [vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
 - [server](https://github.com/wildfirechat/server) - 开源即时通讯(IM)系统
 - [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
@@ -162,7 +166,6 @@
 - [falcon](https://github.com/cxueqin/falcon) - 猎鹰网络安全工具，核心功能DOS测试，支持端口扫描，支持CentOS/Ubuntu/MacOS系统。技术构成：nodejs引擎、express框架、nmap工具、tfn2k dos攻击工具、mocha单元测试框架。欢迎大家使用，也欢迎大家一起开发完善。
 - [eyeones](https://github.com/hseagle/eyeones) - web application for elasticsearch monitoring
 - [livepython](https://github.com/agermanidis/livepython) - Visually trace Python code in real-time.
-- [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [elasticsearch-head](https://github.com/mobz/elasticsearch-head) - A web front end for an elastic search cluster
 - [editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 - [WeApp-Password](https://github.com/LCTT/WeApp-Password) - 运维密码微信小程序
@@ -385,6 +388,7 @@
 
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
+- [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 
 ## Vim script 
@@ -396,7 +400,7 @@
 
 - [spug](https://github.com/openspug/spug) - 开源运维平台：帮助中小型企业完成主机、任务、发布部署、配置文件、监控、报警等管理(open source O & M management system,manage the hosts, tasks, deployment, configuration files, monitoring and alarming) https://spug.qbangmang.com/login
 - [the-fucking-github](https://github.com/lvxianchao/the-fucking-github) - A Chrome extension for Github. View starred repositories, organizing stars, searching stars and searching repositories online for Github。
-- [crawlab](https://github.com/tikazyq/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
+- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
 - [vue-music-webapp](https://github.com/caijinyc/vue-music-webapp) - A Music WebApp based on the Vue.
 - [wechat-admin](https://github.com/dongweiming/wechat-admin) - Wechat Management System
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
