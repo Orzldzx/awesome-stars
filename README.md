@@ -76,6 +76,7 @@
 
 ## Go 
 
+- [HFish](https://github.com/hacklcx/HFish) - Extend the enterprise security test open source honeypot system , Record hacker attacks.  扩展企业安全测试主动诱导型开源蜜罐框架系统，记录黑客攻击手段
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
 - [buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images
@@ -118,7 +119,7 @@
 
 - [JustAuth](https://github.com/justauth/JustAuth) - :100: 史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为和企业微信等第三方平台的授权登录。 Login, so easy!
 - [vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
-- [server](https://github.com/wildfirechat/server) - 开源即时通讯(IM)系统
+- [server](https://github.com/wildfirechat/server) - 即时通讯(IM)系统
 - [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [APIJSON](https://github.com/APIJSON/APIJSON) - 🏆Gitee Most Valuable Project🚀A JSON Transmission Protocol and an ORM Library for providing APIs and Docs automatically.
 - [gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
@@ -248,7 +249,7 @@
 - [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts) - Web Pentesting Fuzz 字典,一个就够了。
 - [CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation | CPython 源码阅读笔记, 多图展示底层实现细节
 - [PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
-- [codo-tools](https://github.com/opendevops-cn/codo-tools) - CODO运维工具支持：告警管理、项目管理、事件管理、加密解密、随机密码、提醒管理等
+- [codo-tools](https://github.com/opendevops-cn/codo-tools) - CODO运维工具支持：告警管理、告警自愈、项目管理、事件管理、加密解密、随机密码、提醒管理等
 - [StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~
 - [owllook](https://github.com/howie6879/owllook) - owllook-在线网络小说阅读网站&小说搜索引擎&小说推荐系统[搜索、追书、收藏、追更、小说API]
 - [faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
@@ -293,7 +294,7 @@
 - [AnsibleApi](https://github.com/Orzldzx/AnsibleApi) - Ansible v2.4 Api
 - [pyrasite](https://github.com/lmacken/pyrasite) - Inject code into running Python processes
 - [PySocket](https://github.com/falseen/PySocket) - PySocket ，一个通过猴子补丁（monkey patch）动态修改 socket 的项目。在不修改源码的情况下给 socket 增加一些诸如限制客户端数量、前置代理之类的功能。让我们将 Monkey Patch 进行到底吧！
-- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.
+- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python & R. No JavaScript Required.
 - [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
 - [flask_table](https://github.com/plumdog/flask_table) - Because writing HTML is fiddly and all of your tables are basically the same
 - [icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
@@ -328,7 +329,7 @@
 - [fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [mhn](https://github.com/threatstream/mhn) - Modern Honey Network
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
+- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [regal](https://github.com/boylegu/regal) - A/B Testing or publish smart grouping engine
 - [hues](https://github.com/prashnts/hues) - Colored terminal text made easy for Python and happiness.
