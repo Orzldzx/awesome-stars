@@ -20,6 +20,7 @@
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Objective-C](#objective-c)
+  - [Objective-C++](#objective-c++)
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
@@ -29,6 +30,7 @@
   - [Shell](#shell)
   - [Standard ML](#standard-ml)
   - [Swift](#swift)
+  - [TSQL](#tsql)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
   - [Vue](#vue)
@@ -108,7 +110,6 @@
 ## HTML 
 
 - [policeRecover](https://github.com/LookingDreamer/policeRecover) - 收到zabbix故障报警,匹配相应的规则触发不同的自愈机制.当然这个脚本功能不仅仅如此.
-- [index](https://github.com/openspug/index) - 企业内部导航页
 - [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [portainer](https://github.com/portainer/portainer) - Making Docker management easy.
 
@@ -122,14 +123,13 @@
 - [vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
 - [server](https://github.com/wildfirechat/server) - 即时通讯(IM)系统
 - [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
-- [APIJSON](https://github.com/APIJSON/APIJSON) - 🏆Gitee Most Valuable Project🚀A JSON Transmission Protocol and an ORM Library for providing APIs and Docs automatically.
 - [gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
 - [Unblock163MusicClient-Xposed](https://github.com/bin456789/Unblock163MusicClient-Xposed) - Unblock 163 Cloud Music Android client through Xposed.
 - [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
 - [cachecloud](https://github.com/sohutv/cachecloud) - 搜狐视频(sohu tv)Redis私有云平台
 - [shepher](https://github.com/XiaoMi/shepher) - 
 - [AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture) - AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler" \(^o^)/~
-- [flow-platform](https://github.com/FlowCI/flow-platform) - [DEPRECATED] CI backend server and agent
+- [flow-platform](https://github.com/FlowCI/flow-platform) - [move to flow-platform-x] CI backend server and agent
 - [ProxyPool](https://github.com/fengzhizi715/ProxyPool) - 给爬虫使用的代理IP池
 - [Saturn](https://github.com/vipshop/Saturn) - The vip.com's distributed job scheduling platform.
 - [elastic-job-lite](https://github.com/elasticjob/elastic-job-lite) - Elastic-Job is a distributed scheduled job framework, based on Quartz and Zookeeper.
@@ -200,6 +200,10 @@
 ## Objective-C 
 
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
+
+## Objective-C++ 
+
+- [hallelujahIM](https://github.com/dongyuwei/hallelujahIM) - hallelujahIM(哈利路亚 英文输入法) is  an intelligent English input method with auto-suggestions and spell check features, Mac only.
 
 ## Others 
 
@@ -385,6 +389,10 @@
 ## Swift 
 
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide status bar icons on macOS
+
+## TSQL 
+
+- [APIJSON](https://github.com/APIJSON/APIJSON) - 🏆Gitee Most Valuable Project🚀A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs
 
 ## TypeScript 
 
