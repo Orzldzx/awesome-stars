@@ -171,6 +171,7 @@
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [wedding](https://github.com/iammapping/wedding) - 婚礼大屏互动，微信请柬一站式解决方案
 - [Hygieia](https://github.com/Hygieia/Hygieia) - CapitalOne  DevOps Dashboard
+- [awx](https://github.com/ansible/awx) - AWX Project
 - [pinyin](https://github.com/hotoo/pinyin) - :cn: 汉字拼音 ➜ hàn zì pīn yīn
 - [falcon](https://github.com/cxueqin/falcon) - 猎鹰网络安全工具，核心功能DOS测试，支持端口扫描，支持CentOS/Ubuntu/MacOS系统。技术构成：nodejs引擎、express框架、nmap工具、tfn2k dos攻击工具、mocha单元测试框架。欢迎大家使用，也欢迎大家一起开发完善。
 - [eyeones](https://github.com/hseagle/eyeones) - web application for elasticsearch monitoring
@@ -310,7 +311,6 @@
 - [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
 - [flask_table](https://github.com/plumdog/flask_table) - Because writing HTML is fiddly and all of your tables are basically the same
 - [icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
-- [awx](https://github.com/ansible/awx) - AWX Project
 - [wechatpy](https://github.com/jxtech/wechatpy) - WeChat SDK for Python
 - [toolkit](https://github.com/ShichaoMa/toolkit) - some useful tools functions
 - [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
