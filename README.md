@@ -250,9 +250,8 @@
 
 ## Python 
 
-- [Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习开源书，基于TensorFlow 2.0实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
+- [Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
 - [isign](https://github.com/apperian/isign) - Code sign iOS applications, without proprietary Apple software or hardware
-- [tldr](https://github.com/tldr-pages/tldr) - :books: Simplified and community-driven man pages
 - [zdict](https://github.com/zdict/zdict) - The last online dictionary framework you need. (?)
 - [simiki](https://github.com/tankywoo/simiki) - Simiki is a simple wiki framework, written in Python.
 - [flask-limiter](https://github.com/alisaifee/flask-limiter) - rate limiting extension for flask applications
@@ -281,7 +280,7 @@
 - [httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing.
 - [fms](https://github.com/geekwolf/fms) - 运维故障管理系统
 - [fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
-- [airflow](https://github.com/apache/airflow) - Apache Airflow
+- [airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [python-nubia](https://github.com/facebookincubator/python-nubia) - A command-line and interactive shell framework.
 - [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
@@ -372,6 +371,7 @@
 ## Shell 
 
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
 - [jsproxy](https://github.com/EtherDream/jsproxy) - 
 - [doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
 - [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
