@@ -57,6 +57,7 @@
 
 ## C++ 
 
+- [pyprotect](https://github.com/ga0/pyprotect) - A lightweight python code protector, makes your python project harder to reverse engineer
 - [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
 - [lnav](https://github.com/tstack/lnav) - Log file navigator
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -70,6 +71,7 @@
 - [hexo-theme-nexmoe](https://github.com/nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
 - [V2ray.Fun](https://github.com/FunctionClub/V2ray.Fun) - 正在开发的全新 V2ray.Fun
 - [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 - [Flask_Docs_ZhCn](https://github.com/dormouse/Flask_Docs_ZhCn) - Flask documents translated by Dormouse Young
 - [smartping](https://github.com/smartping/smartping) - 综合性网络质量(PING)检测工具，支持正/反向PING绘图、互PING拓扑绘图与报警、全国PING延迟地图与在线检测工具等功能
 - [WitchHunt](https://github.com/unistar-sec/WitchHunt) - 
@@ -125,7 +127,6 @@
 
 ## Java 
 
-- [KafkaCenter](https://github.com/xaecbd/KafkaCenter) - KafkaCenter is a unified one-stop platform for Kafka cluster management and maintenance, producer / consumer monitoring, and use of ecological components.
 - [BigData-Notes](https://github.com/heibaiying/BigData-Notes) - 大数据入门指南  :star:
 - [JustAuth](https://github.com/justauth/JustAuth) - :100: 史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么和推特等第三方平台的授权登录。 Login, so easy!
 - [vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
@@ -137,7 +138,7 @@
 - [cachecloud](https://github.com/sohutv/cachecloud) - 搜狐视频(sohu tv)Redis私有云平台
 - [shepher](https://github.com/XiaoMi/shepher) - 
 - [AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture) - AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler" \(^o^)/~
-- [flow-platform-x](https://github.com/FlowCI/flow-platform-x) - Continuous Integration Backend
+- [flow-platform-x](https://github.com/FlowCI/flow-platform-x) - Continuous integration backend service
 - [ProxyPool](https://github.com/fengzhizi715/ProxyPool) - 给爬虫使用的代理IP池
 - [Saturn](https://github.com/vipshop/Saturn) - The vip.com's distributed job scheduling platform.
 - [elastic-job-lite](https://github.com/elasticjob/elastic-job-lite) - Elastic-Job is a distributed scheduled job framework, based on Quartz and Zookeeper.
@@ -150,6 +151,7 @@
 
 ## JavaScript 
 
+- [KafkaCenter](https://github.com/xaecbd/KafkaCenter) - KafkaCenter is a unified one-stop platform for Kafka cluster management and maintenance, producer / consumer monitoring, and use of ecological components.
 - [Thief-Book](https://github.com/cteamx/Thief-Book) - 一款可以在任务栏、桌面、TouchBar上进行摸鱼的最强的跨平台摸鱼神器，支持小说、股票、按键翻页、鼠标翻页、自动翻页让你体验不同的工作 996，上班族必备神器
 - [showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
 - [QZoneExport](https://github.com/ShunCai/QZoneExport) - QQ空间导出助手，用于备份QQ空间的说说、日志、私密日记、相册、视频、留言板、QQ好友、收藏夹为文件，便于迁移与保存
@@ -220,6 +222,8 @@
 
 ## Others 
 
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2020
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) - 2019 年成為 Web 開發人員的路線圖
 - [choerodon](https://github.com/choerodon/choerodon) - Open Source Multi-Cloud Integrated Platform
@@ -229,11 +233,10 @@
 - [microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》
 - [trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R) - Next Generation of ShadowsocksX
-- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱。Most of this not work outside China , so no English translate, sorry
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [Scanners-Box](https://github.com/We5ter/Scanners-Box) - A powerful hacker toolkit collected more than 10 categories of open source scanners from Github  - 安全行业从业者自研开源扫描器合辑
 - [growing-up](https://github.com/mylxsw/growing-up) - 程序猿成长计划
-- [dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ A dark theme for all the things!
+- [dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ Dark theme for all the things!
 - [kubernetes-complete-course](https://github.com/jolestar/kubernetes-complete-course) - Kubernetes 完全教程
 - [open_source_team](https://github.com/niezhiyang/open_source_team) - 国内顶尖团队的开源地址
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
