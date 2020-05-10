@@ -72,7 +72,6 @@
 - [hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
 - [V2ray.Fun](https://github.com/FunctionClub/V2ray.Fun) - 正在开发的全新 V2ray.Fun
 - [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
-- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 - [Flask_Docs_ZhCn](https://github.com/dormouse/Flask_Docs_ZhCn) - Flask documents translated by Dormouse Young
 - [smartping](https://github.com/smartping/smartping) - 综合性网络质量(PING)检测工具，支持正/反向PING绘图、互PING拓扑绘图与报警、全国PING延迟地图与在线检测工具等功能
 - [WitchHunt](https://github.com/unistar-sec/WitchHunt) - 
@@ -84,7 +83,7 @@
 ## Go 
 
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform
-- [HFish](https://github.com/hacklcx/HFish) - Extend the enterprise security test open source honeypot system , Record hacker attacks.  扩展企业安全测试主动诱导型开源蜜罐框架系统，记录黑客攻击手段
+- [HFish](https://github.com/hacklcx/HFish) - 🍯 A Most Convenient Honeypot Platform.  🐝🐝🐝 🐝🐝
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
 - [buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images
@@ -129,6 +128,7 @@
 ## Java 
 
 - [opsCloud](https://github.com/ixrjog/opsCloud) - 运维管理平台(阿里云)，自动同步阿里云配置信息，给研发使用的跳板机，批量运维，Zabbix管理等功能
+- [KafkaCenter](https://github.com/xaecbd/KafkaCenter) - KafkaCenter is a unified one-stop platform for Kafka cluster management and maintenance, producer / consumer monitoring, and use of ecological components.
 - [BigData-Notes](https://github.com/heibaiying/BigData-Notes) - 大数据入门指南  :star:
 - [JustAuth](https://github.com/justauth/JustAuth) - :100: 史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么和推特等第三方平台的授权登录。 Login, so easy!
 - [vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
@@ -154,8 +154,7 @@
 ## JavaScript 
 
 - [carbon](https://github.com/carbon-app/carbon) - 🎨 Create and share beautiful images of your source code
-- [KafkaCenter](https://github.com/xaecbd/KafkaCenter) - KafkaCenter is a unified one-stop platform for Kafka cluster management and maintenance, producer / consumer monitoring, and use of ecological components.
-- [Thief](https://github.com/cteamx/Thief) - 一款可以在任务栏、桌面、TouchBar上进行摸鱼的最强的跨平台摸鱼神器，支持小说、股票、按键翻页、鼠标翻页、自动翻页让你体验不同的工作 996，上班族必备神器
+- [Thief](https://github.com/cteamx/Thief) - 一款创新跨平台摸鱼神器，支持小说、股票、网页、视频、直播、PDF、游戏等摸鱼模式，为上班族打造的上班必备神器，使用此软件可以让上班倍感轻松，远离 ICU。
 - [showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
 - [QZoneExport](https://github.com/ShunCai/QZoneExport) - QQ空间导出助手，用于备份QQ空间的说说、日志、私密日记、相册、视频、留言板、QQ好友、收藏夹为文件，便于迁移与保存
 - [AutoPiano](https://github.com/WarpPrism/AutoPiano) - 自由钢琴 🎹 AutoPiano ( https://www.autopiano.cn )   Simple & Elegant Piano Online
@@ -255,6 +254,7 @@
 
 - [wizard](https://github.com/mylxsw/wizard) - Wizard是一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档。
 - [astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 - [Piplin](https://github.com/Piplin/Piplin) - :outbox_tray: An open source self-hosted continuous integration and deployment system - QQ群： 656868
 - [fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 - [Donkey](https://github.com/osgochina/Donkey) - 基于swoole的定时器程序，支持秒级处理
@@ -387,6 +387,7 @@
 
 ## Shell 
 
+- [aria2.sh](https://github.com/P3TERX/aria2.sh) - Aria2 一键安装管理脚本 增强版
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
