@@ -147,7 +147,7 @@
 - [flow-platform-x](https://github.com/FlowCI/flow-platform-x) - Continuous integration backend service
 - [ProxyPool](https://github.com/fengzhizi715/ProxyPool) - 给爬虫使用的代理IP池
 - [Saturn](https://github.com/vipshop/Saturn) - The vip.com's distributed job scheduling platform.
-- [shardingsphere-elastic-job-lite](https://github.com/apache/shardingsphere-elastic-job-lite) - Elastic-Job is a distributed scheduled job framework, based on Quartz and Zookeeper.
+- [shardingsphere-elastic-job-lite](https://github.com/apache/shardingsphere-elastic-job-lite) - Distributed scheduled job framework
 - [xxl-job](https://github.com/xuxueli/xxl-job) - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
 - [JobX](https://github.com/jobxhub/JobX) - JobX,Let's schedule easy
 - [lanproxy](https://github.com/ffay/lanproxy) - lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面...）。目前市面上提供类似服务的有花生壳、TeamView、GoToMyCloud等等，但要使用第三方的公网服务器就必须为第三方付费，并且这些服务都有各种各样的限制，此外，由于数据包会流经第三方，因此对数据安全也是一大隐患。技术交流QQ群 1067424330
@@ -395,13 +395,13 @@
 - [aria2.sh](https://github.com/P3TERX/aria2.sh) - Aria2 一键安装管理脚本 增强版
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [jsproxy](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
 - [doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
 - [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 - [sa-scripts](https://github.com/geekwolf/sa-scripts) - sa-scripts
-- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [ Originally owned by @ken-reitz]
+- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [Originally owned by @ken-reitz]
 - [acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) - 和我一步步部署 kubernetes 集群
 - [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
