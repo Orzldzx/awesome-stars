@@ -28,7 +28,6 @@
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Shell](#shell)
-  - [Standard ML](#standard-ml)
   - [Swift](#swift)
   - [TSQL](#tsql)
   - [TypeScript](#typescript)
@@ -61,6 +60,7 @@
 
 ## C++ 
 
+- [curve](https://github.com/opencurve/curve) - 
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [pyprotect](https://github.com/ga0/pyprotect) - A lightweight python code protector, makes your python project harder to reverse engineer
@@ -149,7 +149,7 @@
 - [flow-platform-x](https://github.com/FlowCI/flow-platform-x) - Continuous Integration Backend Service
 - [ProxyPool](https://github.com/fengzhizi715/ProxyPool) - 给爬虫使用的代理IP池
 - [Saturn](https://github.com/vipshop/Saturn) - The vip.com's distributed job scheduling platform.
-- [shardingsphere-elasticjob-lite](https://github.com/apache/shardingsphere-elasticjob-lite) - Distributed scheduled job framework
+- [shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) - Distributed scheduled job framework
 - [xxl-job](https://github.com/xuxueli/xxl-job) - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
 - [JobX](https://github.com/jobxhub/JobX) - JobX,Let's schedule easy
 - [lanproxy](https://github.com/ffay/lanproxy) - lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面...）。目前市面上提供类似服务的有花生壳、TeamView、GoToMyCloud等等，但要使用第三方的公网服务器就必须为第三方付费，并且这些服务都有各种各样的限制，此外，由于数据包会流经第三方，因此对数据安全也是一大隐患。技术交流QQ群 1067424330
@@ -286,7 +286,7 @@
 - [Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 - [stackprinter](https://github.com/cknd/stackprinter) - Debugging-friendly exceptions for Python
 - [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts) - Web Pentesting Fuzz 字典,一个就够了。
-- [CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation | CPython 源码阅读笔记, 多图展示底层实现细节
+- [CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation
 - [PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [codo-tools](https://github.com/opendevops-cn/codo-tools) - CODO运维工具支持：告警管理、告警自愈、项目管理、事件管理、加密解密、随机密码、提醒管理等
 - [StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~
@@ -416,10 +416,6 @@
 - [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-
-## Standard ML 
-
-- [Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
 
 ## Swift 
 
