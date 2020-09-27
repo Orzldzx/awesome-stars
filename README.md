@@ -130,6 +130,7 @@
 - [policeRecover](https://github.com/LookingDreamer/policeRecover) - 收到zabbix故障报警,匹配相应的规则触发不同的自愈机制.当然这个脚本功能不仅仅如此.
 - [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
+- [kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 
 ## Haskell 
 
@@ -199,7 +200,7 @@
 - [livepython](https://github.com/agermanidis/livepython) - Visually trace Python code in real-time.
 - [elasticsearch-head](https://github.com/mobz/elasticsearch-head) - A web front end for an elastic search cluster
 - [editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
-- [portainer](https://github.com/portainer/portainer) - Making Docker management easy.
+- [portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [WeApp-Password](https://github.com/LCTT/WeApp-Password) - 运维密码微信小程序
 - [cesi](https://github.com/gamegos/cesi) - CeSI is a web interface for managing multiple supervisors from the same place.
 - [strider](https://github.com/Strider-CD/strider) - Open Source Continuous Integration & Deployment Server
@@ -291,7 +292,6 @@
 - [simiki](https://github.com/tankywoo/simiki) - Simiki is a simple wiki framework, written in Python.
 - [flask-limiter](https://github.com/alisaifee/flask-limiter) - Rate Limiting extension for Flask
 - [tushare](https://github.com/waditu/tushare) - TuShare is a utility for crawling historical data of China stocks
-- [wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 - [python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 - [stackprinter](https://github.com/cknd/stackprinter) - Debugging-friendly exceptions for Python
@@ -404,6 +404,9 @@
 
 ## Shell 
 
+- [ShellClash](https://github.com/juewuy/ShellClash) - 在Shell环境下一键部署及管理Clash服务
+- [IPABuildShell](https://github.com/fenglh/IPABuildShell) - IPABuildShell  一个强大的、轻量的 iOS 自动打包工具，无需手动指定授权文件和证书
+- [GotoSSH](https://github.com/MFrank2016/GotoSSH) - Automatic login SSH （一键登录SSH，可直接从跳板机登录到线上服务器）
 - [oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [bach](https://github.com/bach-sh/bach) - Bach Testing Framework
 - [aria2.sh](https://github.com/P3TERX/aria2.sh) - Aria2 一键安装管理脚本 增强版
@@ -413,7 +416,6 @@
 - [jsproxy](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
 - [doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
 - [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
-- [kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 - [sa-scripts](https://github.com/geekwolf/sa-scripts) - sa-scripts
 - [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [Originally owned by @ken-reitz]
 - [acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
