@@ -407,7 +407,7 @@
 
 ## Shell 
 
-- [ShellClash](https://github.com/juewuy/ShellClash) - 在Shell环境下一键部署及管理Clash服务
+- [ShellClash](https://github.com/juewuy/ShellClash) - 在Linux环境下使用Shell脚本一键部署及管理Clash服务
 - [IPABuildShell](https://github.com/fenglh/IPABuildShell) - IPABuildShell  一个强大的、轻量的 iOS 自动打包工具，无需手动指定授权文件和证书
 - [GotoSSH](https://github.com/MFrank2016/GotoSSH) - Automatic login SSH （一键登录SSH，可直接从跳板机登录到线上服务器）
 - [oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -438,6 +438,7 @@
 
 ## TypeScript 
 
+- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
