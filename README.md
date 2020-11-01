@@ -88,6 +88,7 @@
 
 ## Go 
 
+- [b0pass](https://github.com/bitepeng/b0pass) - 百灵快传：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
 - [packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -210,7 +211,6 @@
 - [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [mapv](https://github.com/huiyan-fe/mapv) - a library of geography visualization-地理信息可视化库
-- [jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
 
 ## Jupyter Notebook 
 
@@ -368,7 +368,7 @@
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [PySvn](https://github.com/dsoprea/PySvn) - Lightweight Subversion library for Python.
 - [Zhihu-Spider](https://github.com/moranzcw/Zhihu-Spider) - 一个获取知乎用户主页信息的多线程Python爬虫程序。
-- [logzero](https://github.com/metachris/logzero) - Robust and effective logging for Python 2 and 3.
+- [logzero](https://github.com/metachris/logzero) - Simple and production-ready logging for Python 2 and 3.
 - [django-sspanel](https://github.com/Ehco1996/django-sspanel) - 用diango开发的shadowsocks/V2ray面板
 - [pyecharts](https://github.com/pyecharts/pyecharts) - 🎨 Python Echarts Plotting Library
 - [WarChild](https://github.com/Souhardya/WarChild) - War Child denial of service testing suite
@@ -391,6 +391,7 @@
 - [redis-rdb-tools](https://github.com/sripathikrishnan/redis-rdb-tools) - Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON
 - [cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+- [jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
 - [pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server
 
 ## Rich Text Format 
@@ -408,7 +409,7 @@
 
 ## Shell 
 
-- [ShellClash](https://github.com/juewuy/ShellClash) - 在Linux环境下使用Shell脚本一键部署及管理Clash服务
+- [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
 - [IPABuildShell](https://github.com/fenglh/IPABuildShell) - IPABuildShell  一个强大的、轻量的 iOS 自动打包工具，无需手动指定授权文件和证书
 - [GotoSSH](https://github.com/MFrank2016/GotoSSH) - Automatic login SSH （一键登录SSH，可直接从跳板机登录到线上服务器）
 - [oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
