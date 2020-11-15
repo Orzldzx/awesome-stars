@@ -56,6 +56,7 @@
 
 ## C# # 
 
+- [cv4pve-autosnap](https://github.com/Corsinvest/cv4pve-autosnap) - Automatic snapshot tool for Proxmox VE
 - [excel2json](https://github.com/neil3d/excel2json) - 把Excel表转换成json对象，并保存到一个文本文件中。
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 
@@ -132,6 +133,7 @@
 
 ## HTML 
 
+- [nginxWebUI](https://github.com/cym1102/nginxWebUI) - Nginx Web page configuration tool. Use web pages to quickly configure Nginx
 - [PrometheusAlert](https://github.com/feiyu563/PrometheusAlert) - Prometheus Alert是开源的运维告警中心消息转发系统,支持主流的监控系统Prometheus,Zabbix,日志系统Graylog和数据可视化系统Grafana发出的预警消息,支持钉钉,微信,华为云短信,腾讯云短信,腾讯云电话,阿里云短信,阿里云电话等
 - [ccaa](https://github.com/helloxz/ccaa) - Linux一键安装Aria2 + AriaNg + FileBrowse实现离线下载、文件管理。
 - [gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
@@ -176,6 +178,7 @@
 
 ## JavaScript 
 
+- [haproxy-wi](https://github.com/Aidaho12/haproxy-wi) - Web interface for managing Haproxy, Nginx and Keepalived servers
 - [iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [Thief](https://github.com/cteamx/Thief) - 一款创新跨平台摸鱼神器，支持小说、股票、网页、视频、直播、PDF、游戏等摸鱼模式，为上班族打造的上班必备神器，使用此软件可以让上班倍感轻松，远离 ICU。
@@ -309,7 +312,7 @@
 - [PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [codo-tools](https://github.com/opendevops-cn/codo-tools) - CODO运维工具支持：告警管理、告警自愈、项目管理、事件管理、加密解密、随机密码、提醒管理等
 - [StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~
-- [owllook](https://github.com/howie6879/owllook) - owllook-在线网络小说阅读网站&小说搜索引擎&小说推荐系统[搜索、追书、收藏、追更、小说API]
+- [owllook](https://github.com/howie6879/owllook) - owllook-小说搜索引擎
 - [faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [multi-v2ray](https://github.com/Jrohy/multi-v2ray) - v2ray多用户管理部署程序
 - [shadowsocksr](https://github.com/shadowsocksrr/shadowsocksr) - Python port of ShadowsocksR
