@@ -134,7 +134,6 @@
 
 ## HTML 
 
-- [nginxWebUI](https://github.com/cym1102/nginxWebUI) - Nginx Web page configuration tool. Use web pages to quickly configure Nginx
 - [ccaa](https://github.com/helloxz/ccaa) - Linux一键安装Aria2 + AriaNg + FileBrowse实现离线下载、文件管理。
 - [gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
 - [policeRecover](https://github.com/LookingDreamer/policeRecover) - 收到zabbix故障报警,匹配相应的规则触发不同的自愈机制.当然这个脚本功能不仅仅如此.
@@ -149,7 +148,7 @@
 ## Java 
 
 - [canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
-- [PowerJob](https://github.com/KFCFans/PowerJob) - Powerful distributed job scheduling middleware that supports CRON, API, fixed frequency, fixed delay and other scheduling strategies, provides workflow to choreograph jobs to resolve dependencies, supports distributed computing of tasks, simple to use, powerful, well-documented, welcome you to use!
+- [PowerJob](https://github.com/KFCFans/PowerJob) - Enterprise job scheduling middleware with distributed computing ability.
 - [opscloud](https://github.com/ixrjog/opscloud) - 运维管理平台(阿里云)，自动同步阿里云配置信息，堡垒机（容器），批量运维，Kubernetes，Zabbix管理等功能
 - [KafkaCenter](https://github.com/xaecbd/KafkaCenter) - KafkaCenter is a unified one-stop platform for Kafka cluster management and maintenance, producer / consumer monitoring, and use of ecological components.
 - [BigData-Notes](https://github.com/heibaiying/BigData-Notes) - 大数据入门指南  :star:
@@ -170,6 +169,7 @@
 - [Saturn](https://github.com/vipshop/Saturn) - The vip.com's distributed job scheduling platform.
 - [shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) - Distributed scheduled job framework
 - [xxl-job](https://github.com/xuxueli/xxl-job) - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+- [jobx](https://github.com/streamxhub/jobx) - JobX,Let's schedule easy
 - [lanproxy](https://github.com/ffay/lanproxy) - lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面...）。目前市面上提供类似服务的有花生壳、TeamView、GoToMyCloud等等，但要使用第三方的公网服务器就必须为第三方付费，并且这些服务都有各种各样的限制，此外，由于数据包会流经第三方，因此对数据安全也是一大隐患。技术交流QQ群 1067424330
 - [elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) - The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
 - [elasticsearch-sql](https://github.com/NLPchina/elasticsearch-sql) - Use SQL to query Elasticsearch
@@ -177,6 +177,8 @@
 
 ## JavaScript 
 
+- [MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+- [nginxWebUI](https://github.com/cym1102/nginxWebUI) - Nginx Web page configuration tool. Use web pages to quickly configure Nginx
 - [haproxy-wi](https://github.com/Aidaho12/haproxy-wi) - Web interface for managing Haproxy, Nginx and Keepalived servers
 - [iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
@@ -451,7 +453,7 @@
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
-- [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 
 ## Vim script 
 
