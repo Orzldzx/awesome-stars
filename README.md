@@ -35,6 +35,7 @@
 
 ## C 
 
+- [mydumper](https://github.com/maxbube/mydumper) - Official mydumper project
 - [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [shc](https://github.com/neurobin/shc) - Shell script compiler
@@ -91,6 +92,7 @@
 
 ## Go 
 
+- [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [b0pass](https://github.com/bitepeng/b0pass) - 百灵快传：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [PrometheusAlert](https://github.com/feiyu563/PrometheusAlert) - Prometheus Alert是开源的运维告警中心消息转发系统,支持主流的监控系统Prometheus,Zabbix,日志系统Graylog和数据可视化系统Grafana发出的预警消息,支持钉钉,微信,华为云短信,腾讯云短信,腾讯云电话,阿里云短信,阿里云电话等
@@ -227,6 +229,7 @@
 
 ## Others 
 
+- [ssh-tutorial](https://github.com/wangdoc/ssh-tutorial) - SSH 教程
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2020
 - [one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
 - [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt;
